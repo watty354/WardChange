@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "丁寧に！！",
+    "version": "1.0",
+    "browser_action": {
+        "default_icon": {
+            "16": "nekoneko.png"
+        },
+        "default_popup": "popup.html",
+        "default_title": "丁寧に言い換え"
+    },
+    "permissopms": [
+        "tabs"
+    ]
+}
